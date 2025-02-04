@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Semaforo_temporizacao_periodica.hex'
+elf = 'build/Semaforo_temporizacao_periodica.elf'
